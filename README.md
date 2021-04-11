@@ -99,10 +99,10 @@ Virtual Gift ($8 each): Everyone can purchase to tip the host
 Target advertising ($20 each): We will collaberate with ad firms to do target advertising
 
 ## Final Implement
-!Login Page[image](https://user-images.githubusercontent.com/38756922/114307261-6c615700-9b11-11eb-9c36-91b053a67789.png)
-!Register Page(https://user-images.githubusercontent.com/38756922/114307266-71260b00-9b11-11eb-94ad-e7ad80fdaf47.png)
-!Users Page[image](https://user-images.githubusercontent.com/38756922/114307275-797e4600-9b11-11eb-947e-3ed6dac9357b.png)
-!Rooms Page[image](https://user-images.githubusercontent.com/38756922/114307280-7daa6380-9b11-11eb-931e-ba999b904780.png)
-!Profile Page[image](https://user-images.githubusercontent.com/38756922/114307284-813dea80-9b11-11eb-8782-2f5864bcf5bc.png)
-!Join Page[image](https://user-images.githubusercontent.com/38756922/114307286-856a0800-9b11-11eb-93c6-f4d99c85af65.png)
-!Chat Room Page[image](https://user-images.githubusercontent.com/38756922/114307291-8864f880-9b11-11eb-9147-982636b8ca19.png)
+Login Page![image](https://user-images.githubusercontent.com/38756922/114307261-6c615700-9b11-11eb-9c36-91b053a67789.png)
+Register Page![image](https://user-images.githubusercontent.com/38756922/114307266-71260b00-9b11-11eb-94ad-e7ad80fdaf47.png)
+Users Page![image](https://user-images.githubusercontent.com/38756922/114307275-797e4600-9b11-11eb-947e-3ed6dac9357b.png)
+Rooms Page![image](https://user-images.githubusercontent.com/38756922/114307280-7daa6380-9b11-11eb-931e-ba999b904780.png)
+Profile Page![image](https://user-images.githubusercontent.com/38756922/114307284-813dea80-9b11-11eb-8782-2f5864bcf5bc.png)
+Join Page![image](https://user-images.githubusercontent.com/38756922/114307286-856a0800-9b11-11eb-93c6-f4d99c85af65.png)
+Chat Room Page![image](https://user-images.githubusercontent.com/38756922/114307291-8864f880-9b11-11eb-9147-982636b8ca19.png)
